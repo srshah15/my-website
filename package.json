@@ -1,6 +1,6 @@
 {
   "name": "my-website",
-  "homepage": "https://github.com/srshah15/my-website.git",
+  "homepage": "https://github.com/srshah15/my-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
